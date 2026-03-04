@@ -1,7 +1,6 @@
 # CodeLab-Unisabana-Projects
 ¡Bienvenido a CodeLab Unisabana Projects! 🎉 Este es un laboratorio práctico donde cada píxel se convierte en dato — y cada dato vuelve a ser imagen. Este proyecto transforma imágenes JPG en matrices RGB dentro de Excel y viceversa, haciendo visible la lógica detrás del color digital.
 
-````md
 # 🖼️ Pixel Programming — JPG ↔ Excel RGB Matrix
 
 ¡Bienvenido a **Pixel Programming**! 🎉  
@@ -122,4 +121,4 @@ Universidad de La Sabana · 2026-1
 
 Este proyecto es de uso académico y educativo libre.  
 Si lo usas o lo adaptas, ¡dale crédito al laboratorio! 🙌
-````
+
